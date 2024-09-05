@@ -5,9 +5,7 @@
       "domain": [
         "weixinsxy.com",
         "wxapp.tc.qq.com"
-      ]
-    },
-    {
+      ],
       "domain_suffix": [
         ".weixinsxy.com",
         ".wxapp.tc.qq.com"
@@ -28,16 +26,12 @@
         ".synology.cn"
         ".synology.com"
         ".synology.me"
-      ]
-    },
-    {
+      ],
       "domain_keyword": [
         "cherrytv",
         "cherr"
         "synology"
-      ]
-    },
-    {
+      ],
       "ip_cidr": [
         "129.226.3.47/32",
         "162.62.163.63/32"
