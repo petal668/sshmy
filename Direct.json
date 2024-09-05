@@ -11,13 +11,30 @@
       "domain_suffix": [
         ".weixinsxy.com",
         ".wxapp.tc.qq.com"
+        ".diskstation.me"
+        ".dscloud.biz"
+        ".dscloud.me"
+        ".dscloud.mobi"
+        ".dsmunas.com"
+        ".dsmunas.net"
+        ".dsmunas.org"
+        ".familyds.com"
+        ".familyds.net"
+        ".familyds.org"
+        ".i234.me"
+        ".myds.com"
+        ".quickconnect.to"
+        ".synodns.com"
+        ".synology.cn"
         ".synology.com"
+        ".synology.me"
       ]
     },
     {
       "domain_keyword": [
         "cherrytv",
         "cherr"
+        "synology"
       ]
     },
     {
