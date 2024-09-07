@@ -26,9 +26,10 @@ payload:
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,synology.me
   - DOMAIN-KEYWORD,synology
-  - DOMAIN-SUFFIX,checkip.synology.com,DIRECT
-  - DOMAIN-SUFFIX,checkipv6.synology.com,DIRECT
-  - DOMAIN-SUFFIX,checkport.synology.com,DIRECT
-  - DOMAIN-SUFFIX,ddns.synology.com,DIRECT
-  - DOMAIN-SUFFIX,account.synology.com,DIRECT
-  - DOMAIN-SUFFIX,checkip.dyndns.org,REJECTSRC-IP-CIDR,142.93.81.166/32,REJECT 
+  - DOMAIN-SUFFIX,checkip.synology.com
+  - DOMAIN-SUFFIX,checkipv6.synology.com
+  - DOMAIN-SUFFIX,checkport.synology.com
+  - DOMAIN-SUFFIX,ddns.synology.com
+  - DOMAIN-SUFFIX,account.synology.com
+  - DOMAIN-SUFFIX,checkip.dyndns.org
+  - REJECTSRC-IP-CIDR,142.93.81.166/32
